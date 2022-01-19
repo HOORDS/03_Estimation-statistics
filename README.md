@@ -13,6 +13,7 @@ Changing the Way We Report, Interpret, and Discuss Our Results to Rebuild Trust 
 [*Introduction to the New Statistics: Estimation, Open Science and Beyond*](https://www.routledge.com/Introduction-to-the-New-Statistics-Estimation-Open-Science-and-Beyond/Cumming-Calin-Jageman/p/book/9781138825529). By Geoff Cumming and Robert Calin-Jageman. Routledge, 04.10.2016.
 * [Handbook's companion materials](https://routledgetextbooks.com/textbooks/9781138825529/student.php) 
 * [Handbook's Youtube video collection](https://routledgetextbooks.com/textbooks/9781138825529/student.php) :eyes::eyes::eyes:
+* [ESCI: Exploratory Software for Confidence Intervals](https://routledgetextbooks.com/textbooks/9781138825529/student.php)
 
 **Adam Claridge-Chang and Joses Ho's Estimation Statistics website**:\
 [https://www.estimationstats.com](https://www.estimationstats.com)
